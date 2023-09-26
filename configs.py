@@ -1,4 +1,4 @@
-# (c) @LazyDeveloperr
+
 import os
 from os import getenv, environ
 
